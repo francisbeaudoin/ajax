@@ -81,6 +81,11 @@
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
 		<string>100</string>
     </gap:config-file>
+	
+    <gap:config-file platform="ios" parent="ExternalHosts">
+		<string>fbsolutions.ca</string>
+    </gap:config-file>	
+	
 
     <!--
         Define access to external domains.
